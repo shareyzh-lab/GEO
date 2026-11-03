@@ -10,4 +10,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://xxx.vercel.app/sitemap.xml
+Sitemap: https://geo-good-gold.vercel.app/sitemap.xml
